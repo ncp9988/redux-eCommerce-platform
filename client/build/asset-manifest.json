@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redux-eCommerce-platform/static/css/main.a64bd9e7.chunk.css",
+    "main.js": "/redux-eCommerce-platform/static/js/main.cb7b08f3.chunk.js",
+    "main.js.map": "/redux-eCommerce-platform/static/js/main.cb7b08f3.chunk.js.map",
+    "runtime-main.js": "/redux-eCommerce-platform/static/js/runtime-main.0b10e83f.js",
+    "runtime-main.js.map": "/redux-eCommerce-platform/static/js/runtime-main.0b10e83f.js.map",
+    "static/js/2.fe5028fc.chunk.js": "/redux-eCommerce-platform/static/js/2.fe5028fc.chunk.js",
+    "static/js/2.fe5028fc.chunk.js.map": "/redux-eCommerce-platform/static/js/2.fe5028fc.chunk.js.map",
+    "index.html": "/redux-eCommerce-platform/index.html",
+    "precache-manifest.17f68020babfaa8fc1b7ff2feeb4b1cb.js": "/redux-eCommerce-platform/precache-manifest.17f68020babfaa8fc1b7ff2feeb4b1cb.js",
+    "service-worker.js": "/redux-eCommerce-platform/service-worker.js",
+    "static/css/main.a64bd9e7.chunk.css.map": "/redux-eCommerce-platform/static/css/main.a64bd9e7.chunk.css.map",
+    "static/js/2.fe5028fc.chunk.js.LICENSE.txt": "/redux-eCommerce-platform/static/js/2.fe5028fc.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "/redux-eCommerce-platform/static/media/spinner.ab497855.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b10e83f.js",
+    "static/js/2.fe5028fc.chunk.js",
+    "static/css/main.a64bd9e7.chunk.css",
+    "static/js/main.cb7b08f3.chunk.js"
+  ]
+}
